@@ -12,4 +12,4 @@ We list all the top 3 positive and  negative patterns with their average success
 
 ## The Rrompt for rewriting
 Here is the sample of rewriting:
-<img src="assets/rewrite-demo.jpg" width="70%">
+<img src="rewrite-demo.jpg" width="70%">
