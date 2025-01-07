@@ -13,7 +13,7 @@ In each pattern, we use colon to separate strategiesthe success rate (SUC), the 
 (INC) and the support value (SUP) are also demonstrated. We also list average success rate (AVG) for each purpose. All the
 number here except support values are in percentage format and category of strategies we used are Evidence (Evi), Impact
 (Imp), Reciprocity (Rec), Politeness (Pol), Credibility (Cre) and Others (Oth). The Politeness, Credibility and Reciprocity
-are most commonly used strategies within the effective patterns,
+are most commonly used strategies within the effective patterns.
 
 ### Top 3 Positive Pattern:
 <table>
@@ -317,7 +317,7 @@ are most commonly used strategies within the effective patterns,
         <td>0.09</td>
     </tr>
     <tr>
-        <td>Cloth</td>
+        <td>Clothing</td>
         <td>299</td>
         <td>37.8</td>
         <td>Imp:Cre:Evi</td>
