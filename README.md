@@ -529,7 +529,7 @@ are most commonly used strategies within the effective patterns.
 </table>
  
 ## The Rrompt for Rewriting
-Here is the sample of using persuasion strategy pattern to rewrite a request:
+Here is our template of applying persuasion strategy pattern to rewrite a given request. 
 
 <img src="rewrite-demo.jpg" width="90%">
 
