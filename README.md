@@ -1,10 +1,15 @@
-# Association-Between-Sequential-Persuasion-Strategies-and-Basic-Psychological-Needs
+# Interaction-Between-Sequential-Persuasion-Strategies-and-Basic-Psychological-Needs
 
 ## Code
 We will release our code after our paper has been published.
 
 ## Data
 The r/borrow dataset is from this [repo](https://github.com/SALT-NLP/Persuasion_Strategy_WVAE/tree/main)
+
+## The terative Collaboration Method (ICM) for Prompt-based Few-shot Learning
+Here is how we do ICM for persuasion strategy classification model:
+
+<img src="mode-fig-1.jpg" width="90%">
 
 ## The Patterns
 
