@@ -20,7 +20,7 @@ number here except support values are in percentage format and category of strat
 (Imp), Reciprocity (Rec), Politeness (Pol), Credibility (Cre) and Others (Oth). The Politeness, Credibility and Reciprocity
 are most commonly used strategies within the effective patterns.
 
-### Top 3 Positive Pattern:
+### Top 3 Positive Patterns:
 <table>
     <tr>
        <td>Purpose</td>
@@ -538,7 +538,7 @@ Here is our template of applying persuasion strategy pattern to rewrite a given 
 
 <img src="rewrite-demo.jpg" width="90%">
 
-We demonstrate the example of applying credibility and reciprocity strategy on the rewrite discourse by different LLMs:
+We demonstrate the example of applying **credibility** and **reciprocity** strategy on the rewrite discourse by different LLMs:
 
 **Gemini-1.5:**
 *I have a pretty consistent history of repaying loans on time, if not early.* (**credibility strategy**)
