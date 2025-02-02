@@ -1,5 +1,4 @@
-# Interaction-Between-Sequential-Persuasion-Strategies-and-Basic-Psychological-Needs
-
+# Can Sequential Persuasion Strategies Referencing Specific Purposes Enhance the Persuasiveness of Online Requests? A Case Study
 ## Code
 We will release our code after our paper has been published.
 
