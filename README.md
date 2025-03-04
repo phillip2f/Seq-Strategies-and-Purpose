@@ -8,7 +8,7 @@ The r/borrow dataset is from this [repo](https://github.com/SALT-NLP/Persuasion_
 ## The Interative Collaboration Method (ICM) for Prompt-based Few-shot Learning
 Here is how we do ICM for persuasion strategy classification model:
 
-    <img src="ICM_example.jpg" width="90%">
+<img src="ICM_example.jpg" width="80%">
 
 ## The Patterns
 
