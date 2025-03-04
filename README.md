@@ -5,10 +5,10 @@ We will release our code after our paper has been published.
 ## Data
 The r/borrow dataset is from this [repo](https://github.com/SALT-NLP/Persuasion_Strategy_WVAE/tree/main)
 
-## The terative Collaboration Method (ICM) for Prompt-based Few-shot Learning
+## The Interative Collaboration Method (ICM) for Prompt-based Few-shot Learning
 Here is how we do ICM for persuasion strategy classification model:
 
-<img src="ICM_example.jpg" width="90%">
+    <img src="ICM_example.jpg" width="90%">
 
 ## The Patterns
 
